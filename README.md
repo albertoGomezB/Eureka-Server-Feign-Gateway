@@ -2,9 +2,8 @@
 
 Este es el repositorio correspondiente al vídeo de mi canal de youtube para Eureka Server, Feign y Gateway
 
-[Eureka Server, Open Feign & Gateway en Microservicios 2023](https://www.youtube.com/watch?v=M6hvD7u7-7c)](https://www.youtube.com/watch?v=M6hvD7u7-7c)
-
-
+# Video de Youtube
+[Eureka Server, Open Feign & Gateway en Microservicios 2023](https://www.youtube.com/watch?v=M6hvD7u7-7c)
 
   ## Tecnologías Utilizadas ☕
 
